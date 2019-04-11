@@ -1,0 +1,8 @@
+Cython==0.29.6
+imutils==0.5.2
+keyboard==0.13.3
+numpy==1.16.2
+opencv-python==4.0.0.21
+Pillow==5.4.1
+pycallgraph==1.0.1
+pytesseract==0.2.6
